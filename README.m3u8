@@ -71,17 +71,12 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_aariah.flv
 #EXTINF:-1, PAPA AMERICANO
 https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_anaeter.flv
 
-#EXTINF:-1,CINEMUNDO
-https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_sagas.flv
-
-#EXTINF:-1,CINEMUDOPLUS
-https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_plus.flv
-
-#EXTINF:-1,NETFLIXULTRA
-https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
-
-#EXTINF:-1,JUANCINE
-https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
+#EXTINF:-1,espn
+https://v3.sportssonline.click/channels/hd/hd9.php
+#EXTINF:-1,spottv
+https://v3.sportssonline.click/channels/pt/sporttv1.php
+#EXTINF:-1,br2
+https://v3.sportssonline.click/channels/bra/br2.php
 
 
 
