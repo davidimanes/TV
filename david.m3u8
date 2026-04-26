@@ -3,78 +3,50 @@
 http://200.58.83.79:2400/play/a0zy/index.m3u8
 #EXTINF:-1,Bolivia Tv HD
 http://200.58.83.79:2400/play/a0tj/index.m3u8
-
 #EXTINF:-1,CNN EN ESPAÑOL 
 http://8.243.126.131:8000/play/a05y/index.m3u8
-
 #EXTINF:-1,24
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
-
 #EXTINF:-1,24 720
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
-
 #EXTINF:-1,24
 http://45.179.164.30:8000/play/a0yp/index.m3u8
-
-
-
 #EXTINF:-1,TVE INT
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
-
 #EXTINF:-1,APUNT
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
-
 #EXTINF:-1,Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.dpname=distrotv&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=230&ads.height=130&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.dma=640&ads.geoType=2&ads.contentid=22886&ads.content_duration=18000&ads.episode_id=45144&ads.show_id=1245&ads.showCategories=IAB12&ads.episodeCategories=IAB12&ads.genre=News%2CGlobal%20News%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Euronews%20Espa%C3%B1ol&ads.episodetitle=Euronews%20Espa%C3%B1ol&ads.keywords=euronews%2Cspanish%2Cespa%C3%B1ol&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=IkEZyROaJQ0&ads.drm=TRUE_DRM
-
 #EXTINF:-1,EURONEWS (1)
 http://190.102.139.189:8000/play/a01s/index.m3u8
-
 #EXTINF:-1,DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
 #EXTINF:-1,France 24 esp
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
 #EXTINF:-1, France24
 http://179.51.136.19:8000/play/a0ut/index.m3u8
-
 #EXTINF:-1,RECORDNEWS
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-
-
-
 #EXTINF:-1,DTV
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1,CEACOM
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,324
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
-
-
-
 #EXTINF:-1,Globo ?? ???? ??
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
 #EXTINF:-1,BAND
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-
 #EXTINF:-1,RecordTV SP HD
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
 #EXTINF:-1,SBT SP HD
 http://cord-cutter.net:8080/live/k4Svp2/645504/20978.m3u8
-
 #EXTINF:-1, Family Guy
 https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_aariah.flv
-
 #EXTINF:-1, PAPA AMERICANO
 https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_anaeter.flv
 
-#EXTINF:-1,BARCA
-https://jdevchpxbgc6.harborviewcreativecollect.cyou/21YUUlwrgwSc/hls3/01/14173/hktz9yia768j_o/index-v1-a1.txt
+
 
 
 
