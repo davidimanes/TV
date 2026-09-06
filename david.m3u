@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="BARCA VS .....", BAR VS .....
-https://85.domhsd.com/global/premiere1/index.m3u8?token=6a71f2c4459d1d282402c046d5213f04d059fb33-ad-1788776102-1788722102&ip=181.188.170.57
+#EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
+
 #EXTINF:-1, BAR vs en russo
-https://g4vsrqvtrj.cdn-centaurus.com/hls2/01/14870/o34wmxeuzmfw_o/master.m3u8?t=FaLV2DjpvjF5v1gOQbjAqU-SW4cV5-OtFWlzELIY-6c&s=1788731126&e=129600&f=74352921&srv=roLKkP6goxxZ&i=0.4&sp=500&p1=roLKkP6goxxZ&p2=roLKkP6goxxZ&asn=27882
-#EXTINF:-1, Corintians
-https://khala.futlivehd.com/global/fanatiz14/index.m3u8?ip=181.188.170.57&token=dc0dafb450e1c2596ec5d1d4d22ad50384bc9e3c-cc-1788779902-1788725902
+https://jm305k.cloudatacdn.com/u5kj6dxrqxplsdgge7zlwji5lgwpwq4wmxvrhuulx6xvlke6e6wtctyi6uxq/f2s6tjl2fd~RrZJjkSfW8?token=nxejt9j6cnjq986m2zpt9dy5&expiry=1788738388120
+#EXTINF:-1, ?
+
 ...............CHILE...........................
 
 #EXTINF:-1 group-title="CHILE", ESPN 
