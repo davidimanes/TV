@@ -7,11 +7,15 @@ https://m71t4o.awqb0f40a9yo.net:8443/hls/nessgjp115wr8.m3u8?s=7ihQJifngRIzB8lMBT
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1 
 #EXTINF:-1 ,GLOBO 2
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
-#EXTINF:-1, gremio vs vitoria
-https://10.ftlly.com/sportv/mono.m3u8?token=e6dbf89f0786ac854dcdb3476e4b9f1289d72af9-32-1788842666-1788824666
 
-
-
+#EXTINF:-1 group-title="PARTIDOS HOY", porto vs city
+https://47.domhsd.com/global/espn5/index.m3u8?token=de854e67907d7d5171125472de516b2636faeddc-63-1788925355-1788871355&ip=181.188.170.57
+#EXTINF:-1, real madrid vs inter
+https://193.domhsd.com/global/espn/index.m3u8?token=f5e4f4940c869617bf7ddac88d4b6169fe690e71-4c-1788925258-1788871258&ip=181.188.170.57
+#EXTINF:-1, lille vs betis
+https://85.domhsd.com/global/espn4/index.m3u8?token=ae6dadfddfb2c625e07cb7faf3d003416a1166c4-fc-1788925288-1788871288&ip=181.188.170.57
+#EXTINF:-1, dormunt vs villareal
+https://85.domhsd.com/global/espn6/index.m3u8?token=26bed2bece654dac721ee1bcb607f8f9c33a76f4-11-1788925314-1788871314&ip=181.188.170.57
 
 #EXTINF:-1, group-title="VAUGHT LIVE"southpark
 https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_eurydice.flv
@@ -42,21 +46,10 @@ http://158.172.155.130:8000/play/a0e8/index.m3u8
 http://158.172.155.130:8000/play/a0do/index.m3u8
 #EXTINF:-1,Cadena A HD
 http://158.172.155.130:8000/play/a0e9/index.m3u8
-
 #EXTINF:-1,Giga Vision HD
 http://158.172.155.130:8000/play/a0e7/index.m3u8
-
-#EXTINF:-1,TIGO 1
-http://190.181.18.82:4111/play/tigo1/index.m3u8
-#EXTINF:-1,TIGO 2
-http://190.181.18.82:4111/play/tigo2/index.m3u8
-#EXTINF:-1,TIGO 3
-http://190.181.18.82:4111/play/tigo3/index.m3u8
 #EXTINF:-1,red uno scz
 http://190.181.18.82:4111/play/a006/index.m3u8
-
-#EXTINF:-1,BOLIVIA TV
-http://73.175.69.26:8000/play/a00k/index.m3u8
 #EXTINF:-1,DTV
 http://73.175.69.26:8000/play/a010/index.m3u8
 #EXTINF:-1,UNITEL
@@ -95,7 +88,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1, ESPN
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
-
 #EXTINF:-1,SBT
 http://179.0.44.23:22080/SBT/index.m3u8
 #EXTINF:-1,SBT
@@ -120,7 +112,6 @@ http://179.0.44.23:22080/BAND/playlist.m3u8
 http://179.0.44.23:22080/BAND/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BAND
 http://179.0.44.23:22080/BAND/mpegts
-
 #EXTINF:-1,RECORD_NEWS
 http://179.0.44.23:22080/RECORD_NEWS/playlist.m3u8
 #EXTINF:-1,RECORD_NEWS
@@ -129,7 +120,6 @@ http://179.0.44.23:22080/RECORD_NEWS/tracks-v1a1/mono.m3u8
 http://179.0.44.23:22080/RECORD_NEWS/index.m3u8
 #EXTINF:-1,RECORD_NEWS
 http://179.0.44.23:22080/RECORD_NEWS/mpegts
-
 #EXTINF:-1,CNN Espanol
 http://45.188.229.33:8000/play/a0to/index.m3u8
 #EXTINF:-1,CNN Espaæol
