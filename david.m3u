@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1, group-title="VAUGHT LIVE"southpark
 https://stream-cdn-iad3.vaughnsoft.net/play/live_shy_ch_eurydice.flv
 #EXTINF:-1,american dad
@@ -74,9 +73,8 @@ https://master.tucableip.com/eldebertv/index.m3u8
 
 
 #EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
-https://98.domhsd.com/tudn_usa/index.m3u8?token=5aa5c00bb23238b6f2c80efcb1fa2e110b7db8dc-2c-1789021677-1788967677&ip=181.188.170.57
+
 #EXTINF:-1, OPC 1
-https://w6.sportsonliine.click/channels/hd/hd6.php
 
 
 
@@ -158,48 +156,6 @@ http://45.188.229.33:8000/play/a1f3/index.m3u8
 http://45.188.229.33:8000/play/a18u/index.m3u8
 
 
-
-
-.............BRAZIL...............................................
-
-#EXTINF:-1 group-title="BRAZIL",RECORD
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1,BAND
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1, ESPN
-https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
-#EXTINF:-1,SBT
-http://179.0.44.23:22080/SBT/index.m3u8
-#EXTINF:-1,SBT
-http://179.0.44.23:22080/SBT/playlist.m3u8
-#EXTINF:-1,SBT
-http://179.0.44.23:22080/SBT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SBT
-http://179.0.44.23:22080/SBT/mpegts
-#EXTINF:-1,RECORD
-http://179.0.44.23:22080/RECORD/index.m3u8
-#EXTINF:-1,RECORD
-http://179.0.44.23:22080/RECORD/playlist.m3u8
-#EXTINF:-1,RECORD
-http://179.0.44.23:22080/RECORD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RECORD
-http://179.0.44.23:22080/RECORD/mpegts
-#EXTINF:-1,BAND
-http://179.0.44.23:22080/BAND/index.m3u8
-#EXTINF:-1,BAND
-http://179.0.44.23:22080/BAND/playlist.m3u8
-#EXTINF:-1,BAND
-http://179.0.44.23:22080/BAND/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BAND
-http://179.0.44.23:22080/BAND/mpegts
-#EXTINF:-1,RECORD_NEWS
-http://179.0.44.23:22080/RECORD_NEWS/playlist.m3u8
-#EXTINF:-1,RECORD_NEWS
-http://179.0.44.23:22080/RECORD_NEWS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RECORD_NEWS
-http://179.0.44.23:22080/RECORD_NEWS/index.m3u8
-#EXTINF:-1,RECORD_NEWS
-http://179.0.44.23:22080/RECORD_NEWS/mpegts
 
 
 
