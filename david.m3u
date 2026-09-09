@@ -74,15 +74,88 @@ https://master.tucableip.com/eldebertv/index.m3u8
 
 
 #EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
-https://s1.envivoslatam99.sbs/espn/index.m3u8?token=21ce3b0b0285c4f757ab7b1187dd0aa0cc9514d0-12-1789020345-1788966345&ip=181.188.170.57
+https://m71t4o.awqb0f40a9yo.net:8443/hls/nessgjp115wr8.m3u8?s=f3xEJWoDcEoYCsUvNvHRhw&e=1788997546
 
-#EXTINF:-1, op1
-https://s1.envivoslatam99.sbs/espn/tracks-v1a1/mono.m3u8?ip=181.188.170.57&token=21ce3b0b0285c4f757ab7b1187dd0aa0cc9514d0-12-1789020345-1788966345
-#EXTINF:-1, op2
-https://s1.envivoslatam99.sbs/mligacampeones/index.m3u8?token=c50fb839a13a26531678b571cc7c2f9cfc41a2a0-09-1789020404-1788966404&ip=181.188.170.57
 
-#EXTINF:-1, op3
-https://m71t4o.awqb0f40a9yo.net:8443/hls/nessgjp115wr8.m3u8?s=owLfWjrJ9wFpagrrU6eFeg&e=1788997055
+
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://45.188.229.33:8000/play/a1ac/index.m3u8
+#EXTINF:-1,ESPN
+http://45.188.229.33:8000/play/a1jj/index.m3u8
+#EXTINF:-1,ESPN
+http://45.188.229.33:8000/play/a1jz/index.m3u8
+#EXTINF:-1,ESPN
+http://45.188.229.33:8000/play/a18s/index.m3u8
+#EXTINF:-1,ESPN
+http://45.188.229.33:8000/play/a0vp/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.188.229.33:8000/play/a1ab/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.188.229.33:8000/play/a1ke/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.188.229.33:8000/play/a1ko/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.188.229.33:8000/play/a18r/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.188.229.33:8000/play/a1ay/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.188.229.33:8000/play/a1jq/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.188.229.33:8000/play/a138/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.188.229.33:8000/play/a1ad/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.188.229.33:8000/play/a0wf/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://45.188.229.33:8000/play/a1b0/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://45.188.229.33:8000/play/a12v/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://45.188.229.33:8000/play/a10g/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://45.188.229.33:8000/play/a1dg/index.m3u8
+#EXTINF:-1,ESPN 5
+http://45.188.229.33:8000/play/a1kz/index.m3u8
+#EXTINF:-1,ESPN 5
+http://45.188.229.33:8000/play/a1k9/index.m3u8
+#EXTINF:-1,ESPN 5
+http://45.188.229.33:8000/play/a1jy/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://45.188.229.33:8000/play/a12n/index.m3u8
+#EXTINF:-1,ESPN 6
+http://45.188.229.33:8000/play/a191/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://45.188.229.33:8000/play/a12h/index.m3u8
+#EXTINF:-1,ESPN 7
+http://45.188.229.33:8000/play/a1ey/index.m3u8
+#EXTINF:-1,ESPN 7
+http://45.188.229.33:8000/play/a190/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://45.188.229.33:8000/play/a1j0/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.188.229.33:8000/play/a1az/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.188.229.33:8000/play/a13h/index.m3u8
+#EXTINF:-1,ESPN Premium
+http://45.188.229.33:8000/play/a1l4/index.m3u8
+#EXTINF:-1,ESPN Premium
+http://45.188.229.33:8000/play/a0tv/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://45.188.229.33:8000/play/a13l/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://45.188.229.33:8000/play/a1di/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://45.188.229.33:8000/play/a1ae/index.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://45.188.229.33:8000/play/a1b1/index.m3u8
+#EXTINF:-1,Fox Sports HD
+http://45.188.229.33:8000/play/a1dh/index.m3u8
+#EXTINF:-1,Movistar Deportes
+http://45.188.229.33:8000/play/a1f3/index.m3u8
+#EXTINF:-1,TyC
+http://45.188.229.33:8000/play/a18u/index.m3u8
+
+
 
 
 .............BRAZIL...............................................
