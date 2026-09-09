@@ -74,14 +74,16 @@ https://master.tucableip.com/eldebertv/index.m3u8
 
 
 #EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
-https://yxdlc29tzq.fubo18.com/espn/mono.m3u8?token=fd67d2d2ed10774d243d005144bbd9732610d086-93-1788987829-1788969829
+https://s1.envivoslatam99.sbs/espn/index.m3u8?token=21ce3b0b0285c4f757ab7b1187dd0aa0cc9514d0-12-1789020345-1788966345&ip=181.188.170.57
 
 #EXTINF:-1, op1
-https://10.ftlly.com/espn/2026/09/09/16/21/02-05600.ts?token=e7b29ab5044bdb30de8075baa8a3303652ea1fae-e-1788987897-1788969897
+https://s1.envivoslatam99.sbs/espn/tracks-v1a1/mono.m3u8?ip=181.188.170.57&token=21ce3b0b0285c4f757ab7b1187dd0aa0cc9514d0-12-1789020345-1788966345
 #EXTINF:-1, op2
-https://5.ftlly.com/espn/2026/09/09/16/21/47-05600.ts?token=d10ece79b3f12c26350ef223fc035f2c52044fbb-fd-1788987993-1788969993
+https://s1.envivoslatam99.sbs/mligacampeones/index.m3u8?token=c50fb839a13a26531678b571cc7c2f9cfc41a2a0-09-1789020404-1788966404&ip=181.188.170.57
+
 #EXTINF:-1, op3
-https://dw5pdgvk.fubo18.com/espn/2026/09/09/16/24/07-05600.ts?token=e5cf4ce44fd95b97985fe8d79dc89f1ca78f82cc-44-1788988140-1788970140
+https://m71t4o.awqb0f40a9yo.net:8443/hls/nessgjp115wr8.m3u8?s=owLfWjrJ9wFpagrrU6eFeg&e=1788997055
+
 
 .............BRAZIL...............................................
 
