@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
-
-
-#EXTINF:-1 group-title="PARTIDOS HOY", porto vs city
 
 
 #EXTINF:-1, group-title="VAUGHT LIVE"southpark
@@ -26,7 +22,7 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemax76.flv
 
 .............BOLIVIA...........................
 
-#EXTINF:-1 group-title="BOLIVIA",Bolivia Tv HD
+#EXTINF:-1 group-title="MIS CANALES",Bolivia Tv HD
 http://158.172.155.130:8000/play/a0e4/index.m3u8
 #EXTINF:-1,Bolivision HD
 http://158.172.155.130:8000/play/a0e8/index.m3u8
@@ -43,7 +39,7 @@ http://73.175.69.26:8000/play/a010/index.m3u8
 #EXTINF:-1,UNITEL
 http://73.175.69.26:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 group-title="MIS CANALES",BARCA TV
+#EXTINF:-1,BARCA TV
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/cb7f3e167b726f8d98ca3535d4a048aad906628b5639d33565a956c120cb1e5b85bafb91ed4bee4a03e24094385631004262d519ce64669e802ef716776c69108a99b265d992026eeb86092e21a3321855e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a2cc71f02b8f541a2fae34345c66cbfb10c2bc47914a5db5dccd71ba583d2498a43837ea312ccc0f0968217d0838c62a801b37951002478d4832f97995cb5decb3f60cb721aa17f3f94cb0226c15dfc256173ba98e9b069f605c78857f90a558821e88100ade811c73aa8f45aa8ed9ad2475330a7c5210c4f35642eeb89531fbc26cba3f39f33140d779a1935a841a2540f3d80fcd90085ce1098a22cc5b06c5d14c1d1759a87f8e3bdf4e54eedcbdfd68ff5dd12ee1ad930701c4cf35c7b63b359a5cb01285f4c0b819b6af487c364fd032589ad51ce1a17b5dac4d6915e7b82571254ec6fce484542f8743d2cab7da2da0b6587705ede7525ad0c7cc063eca820f090dee72d32a1919211a821bce34a9add2a9d40101542bffb275a056b78d3e56944705acb57ebdecfae265c52a2a783ae8e0378343811531e82adb223ccc0937f6f63ab3911697a1418811796388f722e2e1a894f83e2590ec66c470ae9a838515f16e6ebb99388dbcf04f83fe4c6f33d202c4a21da17003565c7b99d539e691b2d9a3c6eade2f7db25ac2851f6e7a06d4b78419a55524e4e/103/1920x1080_5129264/index.m3u8
 #EXTINF:-1,BARCA TV
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
@@ -57,16 +53,32 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1, RECORDNEWS
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1,Globo ?? ???? ??
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1,UNITEL
+http://73.175.69.26:8000/play/a00m/index.m3u8
 #EXTINF:-1,UNITEL
 http://ecuatvip.com/live/DenisseIrias/Irias2024D/79397.ts
+#EXTINF:-1,CNN Espanol
+http://45.188.229.33:8000/play/a0to/index.m3u8
+#EXTINF:-1,CNN Espaæol
+http://45.188.229.33:8000/play/a11h/index.m3u8
+#EXTINF:-1,CNN en Espaæol
+http://45.188.229.33:8000/play/a1at/index.m3u8
+#EXTINF:-1,Globo ?? ???? ??
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1,A punt
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1,CEACOM TV (1080p) [Not 24/7]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1,EL DEBER (1080p)
 https://master.tucableip.com/eldebertv/index.m3u8
+
+
+#EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
+
+
+#EXTINF:-1 group-title="PARTIDOS HOY", porto vs city
+
+
 
 .............BRAZIL...............................................
 
@@ -108,12 +120,7 @@ http://179.0.44.23:22080/RECORD_NEWS/tracks-v1a1/mono.m3u8
 http://179.0.44.23:22080/RECORD_NEWS/index.m3u8
 #EXTINF:-1,RECORD_NEWS
 http://179.0.44.23:22080/RECORD_NEWS/mpegts
-#EXTINF:-1,CNN Espanol
-http://45.188.229.33:8000/play/a0to/index.m3u8
-#EXTINF:-1,CNN Espaæol
-http://45.188.229.33:8000/play/a11h/index.m3u8
-#EXTINF:-1,CNN en Espaæol
-http://45.188.229.33:8000/play/a1at/index.m3u8
+
 
 
 
