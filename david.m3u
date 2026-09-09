@@ -74,11 +74,14 @@ https://master.tucableip.com/eldebertv/index.m3u8
 
 
 #EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
+https://yxdlc29tzq.fubo18.com/espn/mono.m3u8?token=fd67d2d2ed10774d243d005144bbd9732610d086-93-1788987829-1788969829
 
-
-#EXTINF:-1 group-title="PARTIDOS HOY", porto vs city
-
-
+#EXTINF:-1, op1
+https://10.ftlly.com/espn/2026/09/09/16/21/02-05600.ts?token=e7b29ab5044bdb30de8075baa8a3303652ea1fae-e-1788987897-1788969897
+#EXTINF:-1, op2
+https://5.ftlly.com/espn/2026/09/09/16/21/47-05600.ts?token=d10ece79b3f12c26350ef223fc035f2c52044fbb-fd-1788987993-1788969993
+#EXTINF:-1, op3
+https://dw5pdgvk.fubo18.com/espn/2026/09/09/16/24/07-05600.ts?token=e5cf4ce44fd95b97985fe8d79dc89f1ca78f82cc-44-1788988140-1788970140
 
 .............BRAZIL...............................................
 
