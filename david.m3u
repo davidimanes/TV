@@ -69,6 +69,11 @@ https://master.tucableip.com/eldebertv/index.m3u8
 
 #EXTINF:-1, BAR VS ...?
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-uefa-champions-league-ball-white-logo-transparent-png-701751712242497cok6mn78lr.png" group-title="TV | EVENTOS DEL DIA",UCL | 13:00 Bayern München vs Bodo / Glimt
+http://ak-47scan.dyndns.tv:25461/live/Caro97/gkfmXUQcSsc5/639309.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/conmebol-libertadores4840.jpg" group-title="TV | EVENTOS DEL DIA",Libertadores | 18:30 Independiente del Valle vs Flamengo
+http://ak-47scan.dyndns.tv:25461/live/Caro97/gkfmXUQcSsc5/639323.ts
 
 
 
