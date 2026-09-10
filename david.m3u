@@ -72,10 +72,20 @@ https://master.tucableip.com/eldebertv/index.m3u8
 
 
 #EXTINF:-1 group-title="BARCA VS .....", BAR VS ...?
-https://193.domhsd.com/dsports2/index.m3u8?token=429f7ee19cee0fb8a075678789f93abdddd097e6-39-1789033705-1788979705&ip=181.188.170.57
+https://7.ftlly.com/winsports2/mono.m3u8?token=63e3aa7a9bc3b4fdd7d0ecc62faab3e1d935e9c5-77-1789021209-1789003209
 
 #EXTINF:-1,OPC 1
-https://streamtp-golden1.click/global1.php?stream=fanatiz1
+https://17.domhsd.com/espn1col/index.m3u8?token=65e658a569c096081da0d113b3836b669670d95e-4e-1789049048-1788995048&ip=181.188.170.57
+#EXTINF:-1,OPC 2
+https://fala.futlivehd.com/disney14/index.m3u8?ip=181.188.170.57&token=65e8dcbfde60ea32ff3c8a08ea9ac9cf6dbd5dbb-9b-1789049147-1788995147
+#EXTINF:-1,OPC 3
+https://mileixd.futlivehd.com/appletv7/index.m3u8?ip=181.188.170.57&token=380d4c19c30ac560174b0af0a71db22d56d77da1-ba-1789049246-1788995246
+#EXTINF:-1,OPC 4
+https://7.ftlly.com/winsports2/2026/09/10/01/37/04-05606.ts?token=0c861ac17dbc1b352527628bdbfe5fcd89cdcd70-5c-1789021308-1789003308
+#EXTINF:-1,OPC 5
+https://mileixd.futlivehd.com/appletv7/index.m3u8?ip=181.188.170.57&token=380d4c19c30ac560174b0af0a71db22d56d77da1-ba-1789049246-1788995246
+#EXTINF:-1,OPC 6
+https://lala4.futlivehd.com/fanatiz5/index.m3u8?ip=181.188.170.57&token=0396b728d2227fbe324130cddc6ed0b001852cdb-7c-1789049342-1788995342
 
 
 #EXTINF:-1 group-title="DEPORTES",ESPN
