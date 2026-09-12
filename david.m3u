@@ -18,3 +18,165 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv
 #EXTINF:-1,live_cinemax
 https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemax76.flv
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/lossimpsons.png" group-title="",Los Simpson 24/7
+http://tv.m3uts.xyz/live/m/m/635.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsportssur.png" group-title="",Fox Sports 1 | Sur
+http://tv.m3uts.xyz/live/m/m/435.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine 2025
+http://tv.m3uts.xyz/live/m/m/1159.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine 2024
+http://tv.m3uts.xyz/live/m/m/1099.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine 2026
+http://tv.m3uts.xyz/live/m/m/1180.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 1 | Sur
+http://tv.m3uts.xyz/live/m/m/368.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Marvel HD
+http://tv.m3uts.xyz/live/m/m/177.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN Deportes
+http://tv.m3uts.xyz/live/m/m/1165.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn3.png" group-title="",ESPN 3 | Mexico
+http://tv.m3uts.xyz/live/m/m/1110.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/directvsports.png" group-title="",DSports
+http://tv.m3uts.xyz/live/m/m/312.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports.png" group-title="",Fox Sports Sur
+http://tv.m3uts.xyz/live/m/m/465.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Marvel
+http://tv.m3uts.xyz/live/m/m/176.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 1 | Colombia
+http://tv.m3uts.xyz/live/m/m/1107.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Accion Sagas HD
+http://tv.m3uts.xyz/live/m/m/160.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Accion HD
+http://tv.m3uts.xyz/live/m/m/158.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 1 | Mexico
+http://tv.m3uts.xyz/live/m/m/401.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn3.png" group-title="",ESPN 3 | Sur
+http://tv.m3uts.xyz/live/m/m/1127.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 1 | Argentina
+http://tv.m3uts.xyz/live/m/m/1111.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="",ESPN Premium HD
+http://tv.m3uts.xyz/live/m/m/408.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/directvsports.png" group-title="",DSports HD
+http://tv.m3uts.xyz/live/m/m/324.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/directvsports2.png" group-title="",DSports 2
+http://tv.m3uts.xyz/live/m/m/315.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn4.png" group-title="",ESPN 4 | Sur
+http://tv.m3uts.xyz/live/m/m/1069.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 5 HD
+http://tv.m3uts.xyz/live/m/m/1104.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="",ESPN 2 | Mexico
+http://tv.m3uts.xyz/live/m/m/378.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports.png" group-title="",Fox Sports 1 | HD Sur
+http://tv.m3uts.xyz/live/m/m/452.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Accion Sagas
+http://tv.m3uts.xyz/live/m/m/159.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/tvglobo.png" group-title="",Globo | Brasil
+http://tv.m3uts.xyz/live/m/m/1103.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/directvsports2.png" group-title="",DSports 2 HD
+http://tv.m3uts.xyz/live/m/m/317.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="",ESPN 2 | Sur
+http://tv.m3uts.xyz/live/m/m/372.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Ficcion/Fantasia 2
+http://tv.m3uts.xyz/live/m/m/166.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/directvsports.png" group-title="",DSports HD op. 2
+http://tv.m3uts.xyz/live/m/m/1144.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 7 HD
+http://tv.m3uts.xyz/live/m/m/1106.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn3.png" group-title="",ESPN 3 HD
+http://tv.m3uts.xyz/live/m/m/386.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Ficcion/Fantasia
+http://tv.m3uts.xyz/live/m/m/165.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports3sur.png" group-title="",Fox Sports 3 | Sur
+http://tv.m3uts.xyz/live/m/m/468.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/tycsports.png" group-title="",Tyc Sports
+http://tv.m3uts.xyz/live/m/m/974.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN HD
+http://tv.m3uts.xyz/live/m/m/400.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn2.png" group-title="",ESPN 2 HD
+http://tv.m3uts.xyz/live/m/m/375.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 6 HD
+http://tv.m3uts.xyz/live/m/m/1105.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/padredefamilia.png" group-title="",Padre de Familia 24/7
+http://tv.m3uts.xyz/live/m/m/747.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxdeportes.png" group-title="",Fox Deportes
+http://tv.m3uts.xyz/live/m/m/1114.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",Eventos
+http://tv.m3uts.xyz/live/m/m/1131.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="",DAZN 2
+http://tv.m3uts.xyz/live/m/m/1126.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/tntsports.png" group-title="",TNT Sports | Chile
+http://tv.m3uts.xyz/live/m/m/938.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Ficcion/Fantasia 2 HD
+http://tv.m3uts.xyz/live/m/m/167.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/movistar_laliga.png" group-title="",Movistar LaLiga
+http://tv.m3uts.xyz/live/m/m/1100.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/winsportsplus.png" group-title="",Win Sports +
+http://tv.m3uts.xyz/live/m/m/1041.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/clarosports.png" group-title="",Claro Sports
+http://tv.m3uts.xyz/live/m/m/201.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/ligadecampeones.png" group-title="",Liga de Campeones
+http://tv.m3uts.xyz/live/m/m/616.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/directvplus.png" group-title="",DSports +
+http://tv.m3uts.xyz/live/m/m/314.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/tntsports.png" group-title="",TNT Sports | Argentina
+http://tv.m3uts.xyz/live/m/m/934.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",ESPN 1 | Chile
+http://tv.m3uts.xyz/live/m/m/1132.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/winsports.png" group-title="",Win Sports HD
+http://tv.m3uts.xyz/live/m/m/1044.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espnplus.png" group-title="",ESPN Plus HD
+http://tv.m3uts.xyz/live/m/m/405.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/vix.png" group-title="",Vix Deportes 5
+http://tv.m3uts.xyz/live/m/m/1152.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports.png" group-title="",Fox Sports HD
+http://tv.m3uts.xyz/live/m/m/454.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/tigosports.png" group-title="",TigoSports Bolivia
+http://tv.m3uts.xyz/live/m/m/905.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/tvcdeportes.png" group-title="",TVC Deportes
+http://tv.m3uts.xyz/live/m/m/965.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports3.png" group-title="",Fox Sports 3 | HD
+http://tv.m3uts.xyz/live/m/m/446.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/nba.png" group-title="",NBA
+http://tv.m3uts.xyz/live/m/m/710.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/beinsports.png" group-title="",BeinSports
+http://tv.m3uts.xyz/live/m/m/88.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/vix.png" group-title="",Vix Deportes 7
+http://tv.m3uts.xyz/live/m/m/1138.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/winsportsplus.png" group-title="",Win Sports + HD
+http://tv.m3uts.xyz/live/m/m/1042.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/ar_tvp.png" group-title="",TV Publica | Arg
+http://tv.m3uts.xyz/live/m/m/1171.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports.png" group-title="",Fox Sports 1 | Mexico
+http://tv.m3uts.xyz/live/m/m/456.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports2sur.png" group-title="",Fox Sports 2 | Sur
+http://tv.m3uts.xyz/live/m/m/436.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports3.png" group-title="",Fox Sports 3 | Mexico
+http://tv.m3uts.xyz/live/m/m/448.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/movistar_deportes2.png" group-title="",Movistar Deportes 2 HD
+http://tv.m3uts.xyz/live/m/m/664.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/ligadecampeones.png" group-title="",Liga de Campeones 2
+http://tv.m3uts.xyz/live/m/m/617.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="",Cine Ficcion/Fantasia HD
+http://tv.m3uts.xyz/live/m/m/168.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsportspremium.png" group-title="",Fox Sports Premium HD
+http://tv.m3uts.xyz/live/m/m/464.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/movistar_deportes.png" group-title="",Movistar Deportes HD
+http://tv.m3uts.xyz/live/m/m/665.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports2.png" group-title="",Fox Sports 2 | Mexico
+http://tv.m3uts.xyz/live/m/m/441.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="",Evento 2
+http://tv.m3uts.xyz/live/m/m/6.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsportspremium.png" group-title="",Fox Sports Premium
+http://tv.m3uts.xyz/live/m/m/461.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/movistar_laliga.png" group-title="",Movistar LaLiga HD
+http://tv.m3uts.xyz/live/m/m/668.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports2sur.png" group-title="",Fox Sports 2 | Chile
+http://tv.m3uts.xyz/live/m/m/1123.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/foxsports2.png" group-title="",Fox Sports 2 | HD Sur
+http://tv.m3uts.xyz/live/m/m/438.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.tvcluboficial.com/tntsports.png" group-title="",TNT Sports  HD | Argentina
+http://tv.m3uts.xyz/live/m/m/1128.ts
+
+
+
